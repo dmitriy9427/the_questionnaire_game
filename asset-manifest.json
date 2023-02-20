@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.4027af19.css",
-    "main.js": "/static/js/main.db67f996.js",
-    "static/media/pervoe.png": "/static/media/pervoe.3be6bc7bc4880c128502.png",
-    "index.html": "/index.html",
-    "main.4027af19.css.map": "/static/css/main.4027af19.css.map",
-    "main.db67f996.js.map": "/static/js/main.db67f996.js.map"
+    "main.css": "/the_questionnaire_game/static/css/main.4027af19.css",
+    "main.js": "/the_questionnaire_game/static/js/main.903df005.js",
+    "static/media/pervoe.png": "/the_questionnaire_game/static/media/pervoe.3be6bc7bc4880c128502.png",
+    "index.html": "/the_questionnaire_game/index.html",
+    "main.4027af19.css.map": "/the_questionnaire_game/static/css/main.4027af19.css.map",
+    "main.903df005.js.map": "/the_questionnaire_game/static/js/main.903df005.js.map"
   },
   "entrypoints": [
     "static/css/main.4027af19.css",
-    "static/js/main.db67f996.js"
+    "static/js/main.903df005.js"
   ]
 }
