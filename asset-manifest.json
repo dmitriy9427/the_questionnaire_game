@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4027af19.css",
+    "main.js": "/static/js/main.db67f996.js",
+    "static/media/pervoe.png": "/static/media/pervoe.3be6bc7bc4880c128502.png",
+    "index.html": "/index.html",
+    "main.4027af19.css.map": "/static/css/main.4027af19.css.map",
+    "main.db67f996.js.map": "/static/js/main.db67f996.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4027af19.css",
+    "static/js/main.db67f996.js"
+  ]
+}
